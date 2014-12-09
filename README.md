@@ -5,7 +5,7 @@ metodologias ágeis, frameworks, linguagens, infra .. etc...
 
 ===================
 
-Empresa :
+Empresa: Vizir Software Studio, Scup
 
-Perguntas : 
+Perguntas: 
 
